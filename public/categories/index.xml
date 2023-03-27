@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jianing&#39;s Homepage</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on Jianing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>contact</title>
+      <link>https://example.org/categories/contact/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education background</title>
+      <link>https://example.org/categories/education-background/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/education-background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interest</title>
+      <link>https://example.org/categories/interest/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/interest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://example.org/categories/research/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self introduction</title>
+      <link>https://example.org/categories/self-introduction/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/self-introduction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

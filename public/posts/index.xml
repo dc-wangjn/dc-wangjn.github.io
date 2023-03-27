@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jianing&#39;s Homepage</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Jianing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jianing&#39;s Homepage</title>
+      <link>https://example.org/2023/03/cw/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2023/03/cw/</guid>
+      <description>I am currently a PHD student in Shanghai University of Finance and Economics(SUFE), advised by Dr. Xingdong Feng. Previously, I received my B.S. in Mathematics from Shanghai University of Finance and Economics(SUFE), in June 2019.
+I am strongly interested in Reinforcement Learning(RL) and its applications. I currently focus on the multi-agent problem in RL.</description>
+    </item>
+    
+  </channel>
+</rss>

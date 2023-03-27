@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on Jianing&#39;s Homepage</title>
+    <link>https://example.org/categories/research/</link>
+    <description>Recent content in research on Jianing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://example.org/research/cw/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/research/cw/</guid>
+      <description>I am strongly interested in Reinforcement Learning(RL) and its applications. I currently focus on the multi-agent problem in RL.
+Publications Zhou F, Wang J, Feng X. Non-crossing quantile regression for distributional reinforcement learning[J]. Advances in Neural Information Processing Systems, 2020, 33: 15909-15919.paper
+Under Review Shi C, Qi Z, Wang J, Fan Z. Value Enhancement of Reinforcement Learning via Efficient and Robust Trust Region Optimization.(Submitted to Journal of the American Statistical Association)</description>
+    </item>
+    
+  </channel>
+</rss>
